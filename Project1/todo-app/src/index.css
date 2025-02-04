@@ -1,0 +1,20 @@
+:root {
+  --purple-primary: #6b46c1;
+  --purple-light: #9f7aea;
+  --purple-dark: #553c9a;
+  --purple-bg: #faf5ff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--purple-bg);
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+}
