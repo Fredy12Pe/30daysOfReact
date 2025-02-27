@@ -11,5 +11,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.9"
+  },
+  "dependencies": {
+    "firebase": "^11.3.1"
+  }
 }
